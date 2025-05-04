@@ -1,0 +1,6 @@
+[ {
+  "userEmail" : "wishlist@example.com",
+  "items" : [ {
+    "productId" : 101
+  } ]
+} ]

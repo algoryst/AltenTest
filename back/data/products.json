@@ -1,0 +1,16 @@
+[ {
+  "id" : 2,
+  "code" : "PROD-B",
+  "name" : "Product B",
+  "description" : "Description B",
+  "image" : "imageB.jpg",
+  "category" : "Category2",
+  "price" : 20.0,
+  "quantity" : 50,
+  "internalReference" : "REF-B",
+  "shellId" : 1002,
+  "inventoryStatus" : "LOWSTOCK",
+  "rating" : 3.8,
+  "createdAt" : 1746380183406,
+  "updatedAt" : 1746380183406
+} ]
