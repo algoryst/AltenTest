@@ -3,4 +3,11 @@
   "password" : "password123",
   "username" : null,
   "firstname" : null
-} ]
+},
+{
+  "email" : "admin@admin.com",
+  "password" : "password123",
+  "username" : null,
+  "firstname" : null
+}
+]

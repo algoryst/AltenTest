@@ -13,4 +13,19 @@
   "rating" : 3.8,
   "createdAt" : 1746433032425,
   "updatedAt" : 1746433032425
+}, {
+  "id" : 1746449154002,
+  "code" : "",
+  "name" : "aaa",
+  "description" : "",
+  "image" : "",
+  "category" : "",
+  "price" : 0.0,
+  "quantity" : 0,
+  "internalReference" : "",
+  "shellId" : 0,
+  "inventoryStatus" : "INSTOCK",
+  "rating" : 0.0,
+  "createdAt" : 1746451397773,
+  "updatedAt" : 1746451397773
 } ]

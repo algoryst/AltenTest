@@ -8,7 +8,9 @@
             <p-card class="block mb-2">
                 <span class="font-medium text-secondary text-sm">{{ product.category }}</span>
                 <div class="text-lg font-medium text-900 mt-2">{{ product.name }}</div>
-
+              <p class="text-gray-700 mb-2">{{ product.description }}</p>
+              <div class="text-xl text-blue-600">Price: {{ product.price }}</div>
+              <div class="text-sm text-gray-600">Quantity: {{product.quantity}}</div>
                 <ng-template pTemplate="footer">
                     <div class="flex gap-3 mt-1">
                         <p-button label="Modifier" severity="secondary" (onClick)="onUpdate(product)"/>
