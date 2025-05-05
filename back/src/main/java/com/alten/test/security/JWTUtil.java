@@ -14,7 +14,7 @@ import java.util.Date;
 @Component
 public class JWTUtil {
 
-    private final String SECRET_KEY = "z^x&i@gz%_f2=%-=y*q5(pr+n9c!6udqbjqbu$hif1jxs1mtui";
+    private final String SECRET_KEY = "z^x&i@gz%_f2=%-=y*q5(pr+n9c!6udqbjqbu$hif1jxs1mtui"; // déplacer vers application.properties pour etre paramétré
     private final SecretKey secretKey = Keys.hmacShaKeyFor(SECRET_KEY.getBytes(StandardCharsets.UTF_8));
     // Generate a JWT token
     public String generateToken(String email) {
